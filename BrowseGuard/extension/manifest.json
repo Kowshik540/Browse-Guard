@@ -1,0 +1,24 @@
+{
+  "manifest_version": 3,
+  "name": "BrowseGuard",
+  "version": "1.0",
+  "description": "Real-time browser activity risk analyzer",
+  "permissions": [
+    "tabs",
+    "storage",
+    "scripting",
+    "notifications",
+    "activeTab",
+    "webNavigation",
+    "alarms",
+    "declarativeNetRequest",
+    "declarativeNetRequestWithHostAccess"
+  ],
+  "host_permissions": ["<all_urls>"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "popup.html"
+  }
+}

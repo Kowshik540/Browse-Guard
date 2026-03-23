@@ -1,0 +1,138 @@
+https://testsafebrowsing.appspot.com/s/phishing.html
+https://testsafebrowsing.appspot.com/s/malware.html
+https://testsafebrowsing.appspot.com/s/unwanted.html
+http://wholefinetranscendentmoon.neverssl.com/online/
+
+
+
+http://amaz0n-free-gift.tk/claim-prize/otp/verify
+http://192.168.1.1/login/bank-detail/cvv
+http://sbi-secure-verify.xyz/kyc/aadhaar/update-account
+http://paypal-login-confirm.com/signin/password/verify
+http://free-iphone-winner-lucky.com/claim-prize/download/setup.exe
+
+
+
+
+https://guthib.com
+https://flickart.com
+https://amazoom.com
+https://gogle.com
+https://youtub.com
+https://facebok.com
+https://linkedln.com
+https://paytrn.com
+https://zomatto.com
+https://netfilx.com
+http://flickart.com
+
+https://onlinesbi.sbi.bank.in → 100/100 ✅
+https://onlinesbi.sbi → 100/100 ✅
+http://sbi-fake-login.xyz → flagged ⚠️
+
+
+
+🟢 Should score 100 — no popup
+https://google.com
+https://youtube.com
+https://flipkart.com
+https://amazon.in
+https://zomato.com
+https://swiggy.com
+https://github.com
+https://onlinesbi.sbi
+https://onlinesbi.sbi.bank.in
+https://hdfcbank.com
+https://irctc.co.in
+https://wikipedia.org
+
+
+
+
+
+
+🔴 Should score low — popup fires
+Fake banking:
+http://sbi-netbanking.xyz/login
+http://hdfc-secure-login.tk/verify
+http://icici-bank-update.xyz/otp
+http://axisbank-verify.tk/kyc
+
+
+
+
+Fake shopping:
+http://flipkart-sale.xyz/offer/otp
+http://amazon-gift.tk/claim-prize
+http://myntra-discount.xyz/winner
+http://swiggy-free.tk/giveaway
+
+
+
+
+Fake payments:
+http://paytm-cashback.xyz/kyc/aadhaar
+http://phonepe-reward.tk/claim-prize
+http://googlepay-offer.xyz/otp/verify
+
+
+
+
+Scam offers:
+http://free-iphone-winner.tk/claim-prize
+http://lucky-draw-jackpot.xyz/winner
+http://cash-reward-instant.tk/free-gift
+http://win-prize-today.xyz/lottery
+
+
+
+
+Dangerous downloads:
+http://free-antivirus.tk/download/setup.exe
+http://windows-update.xyz/patch.msi
+http://free-game.tk/install/game.apk
+
+
+
+IP address:
+http://192.168.1.1/login/bank-detail
+http://103.25.12.44/signin/otp/aadhaar
+
+
+
+
+Misspelled brands:
+http://flickart.com
+http://amaz0n.xyz/login
+http://g00gle-verify.com/account
+http://paypa1-secure.com/signin
+
+
+
+
+🔴 Notification only (page won't load)
+http://sbi-secure-verify.xyz/kyc/aadhaar/otp
+http://hdfc-netbanking-login.tk/verify/cvv
+http://amaz0n-free-gift.xyz/claim-prize/otp
+http://paypal-login-confirm.tk/signin/password
+http://flipkart-offer-claim.xyz/winner/otp
+
+
+
+
+🎯 Page content test (use local demo pages)
+http://127.0.0.1:5000/fake-sbi
+http://127.0.0.1:5000/fake-lottery
+http://127.0.0.1:5000/fake-kyc
+
+
+
+
+🎯 Official phishing test pages
+https://testsafebrowsing.appspot.com/s/phishing.html
+https://testsafebrowsing.appspot.com/s/malware.html
+https://testsafebrowsing.appspot.com/s/unwanted.html
+
+
+
+chrome://extensions/
